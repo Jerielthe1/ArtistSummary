@@ -1,0 +1,40 @@
+main {
+  text-align: center;
+  vertical-align: center;
+  line-height: 100vh
+}
+
+.App {
+  font-family: Futura;
+  text-align: center;
+}
+
+body {
+  font-family: "Futura";
+  font-size: 22px;
+  background-color: yellow;
+}
+.title {
+  text-align: center;
+}
+
+.subheading {
+  text-align: center;
+}
+
+.card {
+  border: Blue 5px solid;
+  display: block;
+  align-items: center;
+  width: 400px;
+  margin-top: 25px;
+  padding-bottom: 10px;
+  padding-left: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  border-radius: 5px;
+}
+
+.card img {
+  width: 100px;
+}
